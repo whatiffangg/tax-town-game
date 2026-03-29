@@ -1,7 +1,5 @@
 # Tax Town
 
-### ภาษีสร้างเมือง · Taxes Build Cities
-
 **เกมจำลองสถานการณ์ที่สอนเรื่องภาษีผ่านการบริหารร้านค้าและพัฒนาเมือง**
 **A tax simulation game where every fiscal decision shapes your city's future**
 
